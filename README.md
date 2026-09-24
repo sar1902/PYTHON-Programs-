@@ -125,6 +125,16 @@ Q16. Check whether a year is a leap year
 
 
 
+# QUESTION 17 RESULT  
+Q17. Check whether a number is divisible by 5 and 11
+
+![App Screenshot](https://i.ibb.co/DH22sYH3/Q17-S.png)
+
+
+
+
+
+
 
 
 
