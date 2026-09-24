@@ -65,6 +65,16 @@ Q9. Swap two numbers
 
 
 
+# QUESTION 10 RESULT  
+Q10. Convert seconds into hours, minutes and seconds
+
+![App Screenshot](https://i.ibb.co/9HkSXg7f/Q10-S.png)
+
+
+
+
+
+
 
 
 
