@@ -209,6 +209,34 @@ Q25. Print multiples of 5
 
 
 
+# QUESTION 26 RESULT  
+Q26.Print multiplication table
+
+
+
+![App Screenshot](https://i.ibb.co/wF8hY1qP/26.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
