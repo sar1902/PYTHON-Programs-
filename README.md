@@ -133,6 +133,17 @@ Q17. Check whether a number is divisible by 5 and 11
 
 
 
+# QUESTION 18 RESULT  
+Q18. Check whether a number lies between 10 and 50
+
+
+![App Screenshot](https://i.ibb.co/C3M84Qgy/Q18-S.png)
+
+
+
+
+
+
 
 
 
