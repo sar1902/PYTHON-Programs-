@@ -143,6 +143,17 @@ Q18. Check whether a number lies between 10 and 50
 
 
 
+# QUESTION 19 RESULT  
+Q19. Simple calculator using  if/elif 
+
+![App Screenshot](https://i.ibb.co/s9mV9gTX/Q19-S.png)
+
+
+
+
+
+
+
 
 
 
