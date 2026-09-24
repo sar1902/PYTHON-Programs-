@@ -45,7 +45,16 @@ Q6. Calculate simple interest
 # QUESTION 7 RESULT  
 Q7. Convert Celsius to Fahrenheit
 
-![App Screenshot](https://i.ibb.co/QjMJf2pH/Q6-S.png)
+![App Screenshot](https://i.ibb.co/QjMJf2pH/Q6-S.png) 
+
+
+
+# QUESTION 8 RESULT  
+Q8. Calculate total and percentage of 5 subjects
+
+![App Screenshot](https://i.ibb.co/F4WRycdv/Q8-S.png)
+
+
 
 
 
