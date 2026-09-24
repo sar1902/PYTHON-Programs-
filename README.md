@@ -228,6 +228,25 @@ Q27. Sum numbers 1–10
 
 
 
+# QUESTION 28 RESULT  
+Q28. Sum numbers 1–N
+
+
+![App Screenshot](https://i.ibb.co/fdnnJwhd/28.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
