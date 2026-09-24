@@ -26,5 +26,14 @@ Q4. Perform all arithmetic operations on two numbers
 
 
 
+# QUESTION 5 RESULT  
+Q5. Calculate area of a circle
+
+![App Screenshot](https://i.ibb.co/1Grw3xW7/Q5-S.png)
+
+
+
+
+
 
 
