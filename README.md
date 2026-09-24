@@ -116,6 +116,17 @@ Q15. Find greatest of three numbers
 
 
 
+# QUESTION 16 RESULT  
+Q16. Check whether a year is a leap year
+
+
+![App Screenshot](https://i.ibb.co/WNKhY5VQ/Q16-S.png)
+
+
+
+
+
+
 
 
 
