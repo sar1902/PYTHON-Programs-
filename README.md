@@ -98,6 +98,17 @@ Q13. Check whether a person is eligible to vote
 
 
 
+# QUESTION 14 RESULT  
+Q14. Find greater of two numbers
+
+
+![App Screenshot](https://i.ibb.co/JWFxdzq3/Q14-S.png)
+
+
+
+
+
+
 
 
 
