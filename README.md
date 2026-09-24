@@ -107,6 +107,17 @@ Q14. Find greater of two numbers
 
 
 
+# QUESTION 15 RESULT  
+Q15. Find greatest of three numbers
+
+
+![App Screenshot](https://i.ibb.co/jPcjBjZp/Q15-S.png)
+
+
+
+
+
+
 
 
 
