@@ -52,7 +52,17 @@ Q7. Convert Celsius to Fahrenheit
 # QUESTION 8 RESULT  
 Q8. Calculate total and percentage of 5 subjects
 
-![App Screenshot](https://i.ibb.co/F4WRycdv/Q8-S.png)
+![App Screenshot](https://i.ibb.co/F4WRycdv/Q8-S.png) 
+
+
+
+
+# QUESTION 9 RESULT  
+Q9. Swap two numbers
+
+![App Screenshot](https://i.ibb.co/gbnR8LJ6/Q9-S.png)
+
+
 
 
 
