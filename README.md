@@ -34,6 +34,16 @@ Q5. Calculate area of a circle
 
 
 
+# QUESTION 6 RESULT  
+Q6. Calculate simple interest
+
+![App Screenshot](https://i.ibb.co/QjMJf2pH/Q6-S.png)
+
+
+
+
+
+
 
 
 
