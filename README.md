@@ -190,6 +190,17 @@ Q23. Print even numbers 1–100
 
 
 
+# QUESTION 24 RESULT  
+Q24. Print odd numbers 1–100
+
+
+![App Screenshot](https://i.ibb.co/FLMf9CxK/24.png)
+
+
+
+
+
+
 
 
 
