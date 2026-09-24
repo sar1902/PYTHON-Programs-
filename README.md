@@ -84,7 +84,18 @@ Q11.Check whether a number is positive, negative or zero
 # QUESTION 12 RESULT  
 Q12. Check whether a number is even or odd
 
-![App Screenshot](https://i.ibb.co/5hr519C6/Q12-S.png)
+![App Screenshot](https://i.ibb.co/5hr519C6/Q12-S.png) 
+
+
+
+
+# QUESTION 13 RESULT  
+Q13. Check whether a person is eligible to vote
+
+
+![App Screenshot](https://i.ibb.co/zWJdkz4X/Q13-S.png)
+
+
 
 
 
