@@ -181,6 +181,17 @@ Q22.Print numbers 10–1
 
 
 
+# QUESTION 23 RESULT  
+Q23. Print even numbers 1–100
+
+
+![App Screenshot](https://i.ibb.co/dwT54v6S/23.png)
+
+
+
+
+
+
 
 
 
