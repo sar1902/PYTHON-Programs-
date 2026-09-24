@@ -219,6 +219,25 @@ Q26.Print multiplication table
 
 
 
+# QUESTION 27 RESULT  
+Q27. Sum numbers 1–10
+
+
+![App Screenshot](https://i.ibb.co/yctmTnJc/27.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
