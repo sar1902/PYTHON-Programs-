@@ -237,6 +237,25 @@ Q28. Sum numbers 1–N
 
 
 
+# QUESTION 29 RESULT  
+Q29. Find factorial of N
+
+
+![App Screenshot](https://i.ibb.co/JWM6W8Bs/29.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
