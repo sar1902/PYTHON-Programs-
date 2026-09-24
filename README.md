@@ -200,6 +200,18 @@ Q24. Print odd numbers 1–100
 
 
 
+# QUESTION 25 RESULT  
+Q25. Print multiples of 5
+
+
+![App Screenshot](https://i.ibb.co/Q3gFb7wC/25.png)
+
+
+
+
+
+
+
 
 
 
