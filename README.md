@@ -19,6 +19,11 @@ Q3. Take two numbers and display their sum
 ![App Screenshot](https://i.ibb.co/Kc1B5rm5/Q3-S.png)
 
 
+# QUESTION 4 RESULT  
+Q4. Perform all arithmetic operations on two numbers
+
+![App Screenshot](https://i.ibb.co/1tRgZYYc/Q4-S.png)
+
 
 
 
