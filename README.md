@@ -73,6 +73,16 @@ Q10. Convert seconds into hours, minutes and seconds
 
 
 
+# QUESTION 11 RESULT  
+Q11.Check whether a number is positive, negative or zero
+
+![App Screenshot](https://i.ibb.co/v4x1MCqD/Q11-S.png)
+
+
+
+
+
+
 
 
 
