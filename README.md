@@ -172,6 +172,18 @@ Q21. Print numbers 1–10
 
 
 
+# QUESTION 22 RESULT  
+Q22.Print numbers 10–1
+
+
+![App Screenshot](https://i.ibb.co/RkwQ6rfy/Q21.png)
+
+
+
+
+
+
+
 
 
 
