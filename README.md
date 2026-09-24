@@ -162,6 +162,19 @@ Q20. Grade calculator from marks
 
 
 
+# QUESTION 21 RESULT  
+Q21. Print numbers 1–10
+
+
+![App Screenshot](https://i.ibb.co/RkwQ6rfy/Q21.png)
+
+
+
+
+
+
+
+
 
 
 
