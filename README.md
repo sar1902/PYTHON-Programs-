@@ -81,6 +81,16 @@ Q11.Check whether a number is positive, negative or zero
 
 
 
+# QUESTION 12 RESULT  
+Q12. Check whether a number is even or odd
+
+![App Screenshot](https://i.ibb.co/5hr519C6/Q12-S.png)
+
+
+
+
+
+
 
 
 
