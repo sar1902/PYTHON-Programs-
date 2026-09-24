@@ -151,6 +151,17 @@ Q19. Simple calculator using  if/elif
 
 
 
+# QUESTION 20 RESULT  
+Q20. Grade calculator from marks
+
+
+![App Screenshot](https://i.ibb.co/BHL4ZQDx/Q20-S.png)
+
+
+
+
+
+
 
 
 
