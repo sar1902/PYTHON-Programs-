@@ -14,3 +14,21 @@ print(f"Branch:  {branch}")
 
 Q2. Take name as input and greet the user 
 
+name = input("Enter your name:Sarthak ")
+print("Hello,", name + "!")
+
+
+Q3.Take two numbers and display their sum
+
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+
+sum = num1 + num2
+
+print("Sum =", sum)  
+
+
+Q4.Perform all arithmetic operations on two numbers
+
+
+
