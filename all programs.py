@@ -415,7 +415,48 @@ for i in range(1, n + 1):
     if i % 3 == 0:
         count += 1
 
-print("Count =", count)
+print("Count =", count)  
+
+
+Q38. Print factors of a number
+
+n = int(input("Enter a number: "))
+
+for i in range(1, n + 1):
+    if n % i == 0:
+        print(i)
+
+
+Q39. Check whether a number is prime
+
+n = int(input("Enter a number: "))
+
+count = 0
+
+for i in range(1, n + 1):
+    if n % i == 0:
+        count += 1
+
+if count == 2:
+    print("Prime number")
+else:
+    print("Not a prime number")
+
+Q40. Print prime numbers from 1–N  
+
+n = int(input("Enter N: "))
+
+for num in range(2, n + 1):
+    prime = True
+
+    for i in range(2, num):
+        if num % i == 0:
+            prime = False
+            break
+
+    if prime:
+        print(num)
+
 
 
 
