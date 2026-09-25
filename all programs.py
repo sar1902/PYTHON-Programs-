@@ -225,7 +225,54 @@ elif operator == "/":
 else:
     print("Invalid operator")
 
-Q20. 
+Q20. Grade calculator from marks
+
+marks = float(input("Enter your marks: "))
+
+if marks >= 90:
+    print("Grade: A")
+elif marks >= 80:
+    print("Grade: B")
+elif marks >= 70:
+    print("Grade: C")
+elif marks >= 60:
+    print("Grade: D")
+elif marks >= 50:
+    print("Grade: E")
+else:
+    print("Grade: F")
+
+
+Q21. Print numbers 1–10
+
+for i in range(1, 11):
+    print(i)
+
+Q22. Print numbers 10–1
+
+for i in range(10, 0, -1):
+    print(i)
+
+Q23. Print even numbers 1–100
+
+for i in range(2, 101, 2):
+    print(i)
+
+Q24. Print odd numbers 1–100
+
+for i in range(1, 101, 2):
+    print(i)
+
+Q25. Print multiples of 5
+
+for i in range(5, 101, 5):
+    print(i)
+
+
+
+
+
+
 
 
 
