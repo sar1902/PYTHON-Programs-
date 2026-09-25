@@ -47,7 +47,16 @@ else:
 print("Exponentiation =", num1 ** num2)
 
 
-Q5. Calculate area of a circle
+Q5. Calculate area of a circle 
+
+import math
+
+radius = float(input("Enter the radius of the circle: "))
+
+area = 3.14 * radius ** 2
+
+print("Area of the circle =", area)
+
 
 
 
