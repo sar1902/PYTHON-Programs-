@@ -269,6 +269,85 @@ for i in range(5, 101, 5):
     print(i)
 
 
+Q25. Print multiples of 5
+
+for i in range(1, 11):
+    print(5 * i)
+
+Q26. Print multiplication table
+
+num = int(input("Enter a number: "))
+
+for i in range(1, 11):
+    print(num, "x", i, "=", num * i)
+
+Q27. Sum numbers 1–10
+
+sum = 0
+
+for i in range(1, 11):
+    sum += i
+
+print(sum)
+
+
+Q28. Sum numbers 1–N
+
+
+n = int(input("Enter N: "))
+
+sum = 0
+for i in range(1, n + 1):
+    sum += i
+
+print("Sum =", sum)
+
+
+Q29. Find factorial of N
+
+n = int(input("Enter N: "))
+
+factorial = 1
+
+for i in range(1, n + 1):
+    factorial *= i
+
+print("Factorial =", factorial)
+
+
+Q30. Count from 1 to N
+
+n = int(input("Enter N: "))
+
+for i in range(1, n + 1):
+    print(i)
+
+
+Q31. Count even numbers from 1–N
+
+n = int(input("Enter N: "))
+
+count = 0
+
+for i in range(1, n + 1):
+    if i % 2 == 0:
+        count += 1
+
+print("Count of even numbers =", count)
+
+
+Q32. Count odd numbers from 1–N
+
+n = int(input("Enter N: "))
+
+count = 0
+
+for i in range(1, n + 1):
+    if i % 2 != 0:
+        count += 1
+
+print("Count of odd numbers =", count)
+
 
 
 
