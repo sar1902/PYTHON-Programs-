@@ -119,6 +119,116 @@ print("Minutes =", minutes)
 print("Seconds =", seconds)
 
 
+Q11. Check whether a number is positive, negative or zero 
+num = float(input("Enter a number: "))
+
+if num > 0:
+    print("Positive")
+elif num < 0:
+    print("Negative")
+else:
+    print("Zero")
+
+
+Q12. Check whether a number is even or odd
+
+num = int(input("Enter a number: "))
+
+if num % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
+
+
+Q13. Check whether a person is eligible to vote
+
+age = int(input("Enter your age: "))
+
+if age >= 18:
+    print("Eligible to vote")
+else:
+    print("Not eligible to vote")
+
+Q14. Find greater of two numbers
+
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+
+if num1 > num2:
+    print("Greater number =", num1)
+elif num2 > num1:
+    print("Greater number =", num2)
+else:
+    print("Both numbers are equal")
+
+
+Q15. Find greatest of three numbers
+
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+num3 = float(input("Enter third number: "))
+
+if num1 >= num2 and num1 >= num3:
+    print("Greatest number =", num1)
+elif num2 >= num1 and num2 >= num3:
+    print("Greatest number =", num2)
+else:
+    print("Greatest number =", num3)
+
+
+Q16. Check whether a year is a leap year
+
+year = int(input("Enter a year: "))
+
+if (year % 400 == 0) or (year % 4 == 0 and year % 100 != 0):
+    print("Leap year")
+else:
+    print("Not a leap year")
+
+
+Q17. Check whether a number is divisible by 5 and 11
+
+num = int(input("Enter a number: "))
+
+if num % 5 == 0 and num % 11 == 0:
+    print("The number is divisible by both 5 and 11")
+else:
+    print("The number is not divisible by both 5 and 11")
+
+Q18. Check whether a number lies between 10 and 50
+
+num = int(input("Enter a number: "))
+
+if 10 <= num <= 50:
+    print("The number lies between 10 and 50")
+else:
+    print("The number does not lie between 10 and 50")
+
+
+Q19. Simple calculator using  if/elif
+
+num1 = float(input("Enter first number: "))
+operator = input("Enter operator (+, -, *, /): ")
+num2 = float(input("Enter second number: "))
+
+if operator == "+":
+    print("Result =", num1 + num2)
+elif operator == "-":
+    print("Result =", num1 - num2)
+elif operator == "*":
+    print("Result =", num1 * num2)
+elif operator == "/":
+    if num2 != 0:
+        print("Result =", num1 / num2)
+    else:
+        print("Cannot divide by zero")
+else:
+    print("Invalid operator")
+
+Q20. 
+
+
+
 
 
 
