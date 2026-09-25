@@ -349,6 +349,79 @@ for i in range(1, n + 1):
 print("Count of odd numbers =", count) 
 
 
+Q33. Sum even numbers
+
+n = int(input("Enter N: "))
+
+sum = 0
+
+for i in range(1, n + 1):
+    if i % 2 == 0:
+        sum += i
+
+print("Sum of even numbers =", sum)
+
+
+
+Q34. Sum odd numbers
+
+n = int(input("Enter N: "))
+
+sum = 0
+
+for i in range(1, n + 1):
+    if i % 2 != 0:
+        sum += i
+
+print("Sum of odd numbers =", sum)
+
+
+Q35. Find largest number from 1–N
+
+
+n = int(input("Enter N: "))
+
+largest = 0
+
+for i in range(1, n + 1):
+    if i > largest:
+        largest = i
+
+print("Largest number =", largest)
+
+
+Q36. Find smallest number from 1–N
+
+
+n = int(input("Enter N: "))
+
+smallest = 1
+
+for i in range(1, n + 1):
+    if i < smallest:
+        smallest = i
+
+print("Smallest number =", smallest)
+
+
+Q37. Count numbers divisible by 3 
+
+
+n = int(input("Enter N: "))
+
+count = 0
+
+for i in range(1, n + 1):
+    if i % 3 == 0:
+        count += 1
+
+print("Count =", count)
+
+
+
+
+
+
 
 
 
