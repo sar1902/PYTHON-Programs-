@@ -71,6 +71,52 @@ print("Simple Interest =", simple_interest)
 
 Q7. Convert Celsius to Fahrenheit 
 
+celsius = float(input("Enter temperature in Celsius: "))
+
+fahrenheit = (celsius * 9/5) + 32
+
+print("Temperature in Fahrenheit =", fahrenheit)
+
+
+Q8. Calculate total and percentage of 5 subjects
+
+marks1 = float(input("Enter marks for subject 1: "))
+marks2 = float(input("Enter marks for subject 2: "))
+marks3 = float(input("Enter marks for subject 3: "))
+marks4 = float(input("Enter marks for subject 4: "))
+marks5 = float(input("Enter marks for subject 5: "))
+
+total = marks1 + marks2 + marks3 + marks4 + marks5
+percentage = total / 5
+
+print("Total marks =", total)
+print("Percentage =", percentage, "%")
+
+
+Q9. Swap two numbers
+
+num1 = input("Enter first number: ")
+num2 = input("Enter second number: ")
+
+num1, num2 = num2, num1
+
+print("After swapping:")
+print("First number =", num1)
+print("Second number =", num2)
+
+
+Q10. Convert seconds into hours, minutes and seconds
+
+seconds = int(input("Enter total seconds: "))
+
+hours = seconds // 3600
+remaining_seconds = seconds % 3600
+minutes = remaining_seconds // 60
+seconds = remaining_seconds % 60
+
+print("Hours =", hours)
+print("Minutes =", minutes)
+print("Seconds =", seconds)
 
 
 
